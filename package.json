@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-web-server",
+  "version": "1.0.0",
+  "description": "Web server made with nodejs",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/algonotion/nodejs-web-server.git"
+  },
+  "author": "Algonotion",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/algonotion/nodejs-web-server/issues"
+  },
+  "homepage": "https://github.com/algonotion/nodejs-web-server#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.2"
+  }
+}
